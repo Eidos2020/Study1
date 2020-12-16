@@ -1,0 +1,9 @@
+C:\StudyRep\Study1\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe.config
+C:\StudyRep\Study1\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe
+C:\StudyRep\Study1\TurtleGame\TurtleGame\bin\Debug\TurtleGame.pdb
+C:\StudyRep\Study1\TurtleGame\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+C:\StudyRep\Study1\TurtleGame\TurtleGame\bin\Debug\SmallBasicLibrary.xml
+C:\StudyRep\Study1\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csproj.CoreCompileInputs.cache
+C:\StudyRep\Study1\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csproj.CopyComplete
+C:\StudyRep\Study1\TurtleGame\TurtleGame\obj\Debug\TurtleGame.exe
+C:\StudyRep\Study1\TurtleGame\TurtleGame\obj\Debug\TurtleGame.pdb
